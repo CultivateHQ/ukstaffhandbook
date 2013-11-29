@@ -1,0 +1,13 @@
+---
+layout: default
+title: Neo Innovation Europe Ltd, Staff Handbook
+---
+
+<div id="home">
+  <h1>Sections</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+    <li>{{ post.class.inspect}} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
