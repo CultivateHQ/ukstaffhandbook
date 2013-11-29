@@ -2,9 +2,11 @@ This is the Neo Innovation Europe Ltd, handbook. It is a document prepared with 
 
 # Jekyll
 
-It is a vanilla Jekyll site. Sections are posts.
+It is a vanilla [Jekyll site](http://jekyllrb.com). Sections are posts.
 
 # Deployment
+
+Deployed to [https://neoukstaffhandbook.herokuapp.com/2013/11/29/introduction.html](https://neoukstaffhandbook.herokuapp.com/2013/11/29/introduction.html). It is a standard Heroku deploy.
 
 # Changes
 

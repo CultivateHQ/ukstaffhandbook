@@ -1,3 +1,4 @@
 name: Neo Innovation Europe Ltd, Staff Handbook
 markdown: redcarpet
+exclude: ['vendor']
 pygments: true
