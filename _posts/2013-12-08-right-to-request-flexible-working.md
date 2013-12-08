@@ -56,3 +56,6 @@ An employee can appeal against the Company’s decision to refuse an application
 
 The Company will hold a meeting with the employee to discuss the appeal within 14 days after the employee has given notice. The Company will notify the employee in writing of its decision on the appeal within 14 days after the date of the hearing. The employee may bring a fellow worker as a companion to the appeal hearing.
 
+### Not statutory
+
+_TODO Add paragraph about approaching line manager directly for informal arrangements_
