@@ -37,7 +37,7 @@ Job advertisements should avoid stereotyping or using wording that may discourag
 
 We take steps to ensure that our vacancies are advertised to a diverse labour market and, where relevant, to particular groups that have been identified as disadvantaged or underrepresented in our organisation.
 
-Applicants should not be asked about health or disability before a job offer is made. There are limited exceptions which should only be used with [POSITION] approval. For example:
+Applicants should not be asked about health or disability before a job offer is made. There are limited exceptions which should only be used with Office Director approval. For example:
 
 * Questions necessary to establish if an applicant can perform an intrinsic part of the job (subject to any reasonable adjustments).
 * Questions to establish if an applicant is fit to attend an assessment or any reasonable adjustments that may be needed at interview or assessment.
@@ -77,7 +77,7 @@ We monitor the conditions of service of part-time employees and their progressio
 
 ### Breaches of the policy
 
-If you believe that you may have been discriminated against you are encouraged to raise the matter through our Grievance Procedure. If you believe that you may have been subject to harassment you are encouraged to raise the matter through our Anti-harassment and Bullying Policy. If you are uncertain which applies or need advice on how to proceed you should speak to [NAME/POSITION].
+If you believe that you may have been discriminated against you are encouraged to raise the matter through our Grievance Procedure. If you believe that you may have been subject to harassment you are encouraged to raise the matter through our Anti-harassment and Bullying Policy. If you are uncertain which applies or need advice on how to proceed you should speak to your Office Director.
 
 Allegations regarding potential breaches of this policy will be treated in confidence and investigated in accordance with the relevant procedure. Employees who make such allegations in good faith will not be victimised or treated less favourably as a result. False allegations which are found to have been made in bad faith will, however, be dealt with under our Disciplinary Procedure.
 

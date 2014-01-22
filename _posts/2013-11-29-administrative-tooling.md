@@ -21,7 +21,7 @@ The wiki is a Google Site. It is [here](https://wiki.neo.com/).
 
 <a name="t2"></a>
 
-[T2](https://t2.neo.com/offices/edinburgh) is an internal tool used for staff-allocation, and utilisation tracking. Please ensure your allocations are correct and up-to-date, especially [holidays](/2013/11/29/holidays.html).
+[T2](http://t2allocation.neo.com/#/offices/edinburgh/projects) is an internal tool used for staff-allocation, and utilisation tracking. Please ensure your allocations are correct and up-to-date, especially [holidays](/2013/11/29/holidays.html).
 
 ### FreeAgent
 <a name="freeagent"></a>
