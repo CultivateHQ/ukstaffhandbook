@@ -3,6 +3,6 @@
 source "https://rubygems.org"
 
 gem 'jekyll'
-# gem 'puma'
-# gem 'rack-contrib'
-# gem 'rack-ssl'
+gem 'puma'
+gem 'rack-contrib'
+gem 'rack-ssl'
