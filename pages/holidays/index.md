@@ -3,13 +3,12 @@ layout: default
 title: Holidays
 ---
 
+{% include positions.txt%}
+
 ### How to book a holiday
 
-Until [T2](/2013/11/29/administrative-tooling.html#t2) has a more stable API, we are tracking holidays with a Google Spreadsheet. If you do not have one set up, as Paul Wilson.
-
 1. Ask your line manager's permission.
-2. Ensure that the holiday is entered into [T2](/2013/11/29/administrative-tooling.html#t2).
-3. Ensure that the holiday is recorded in your holiday spreadsheet.
+2. Ensure that the holiday is entered into [T2](/2013/11/29/administrative-tooling.html#t2). For traceability, and for now, this will be added by the {{ md }}.
 
 
 ### The Rules
@@ -18,7 +17,7 @@ The holiday year runs from 1st January to 31st December each year.
 
 Full time employees’ annual holiday entitlement in any holiday year is 34 days (inclusive of public holiday entitlement which you will be notified of in your contract of employment), which part time employees will receive pro rata.
 
-Hourly paid employees will be paid at their basic rate of pay and salaried employees will be paid their basic salary in respect of periods of annual holiday.
+Salaried employees will be paid their basic salary in respect of periods of annual holiday.
 
 Employees will accrue annual holidays during the Ordinary and Additional Maternity, Adoption and Paternity Leave periods.
 
@@ -26,7 +25,9 @@ On termination of employment, employees will be entitled to be paid for holiday 
 
 If on termination of employment an employee has taken more annual holiday than he or she has accrued in that holiday year, an appropriate deduction will be made from the employee’s final pay.
 
-All holidays must be notified at least 3 weeks before they are taken and agreed by your line manager.  Not more than two weeks should be taken consecutively unless specifically agreed otherwise.  It is expected that at least 1 full week’s holiday will be taken during the holiday year.
+All holidays should notified at least 4 weeks before they are taken and agreed by your line manager, though on occasion holiday requests may be granted with shorter notice periods - especially if the employee is on the bench.
+
+It is expected that at least 1 full week’s holiday will be taken during the holiday year.
 
 A maximum of 4 days’ accrued annual holiday entitlement which are in excess of the statutory entitlement, may be carried over from one holiday year to the next.
 

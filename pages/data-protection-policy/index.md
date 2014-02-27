@@ -15,7 +15,7 @@ This policy does not form part of any employee's contract of employment and it m
 
 This policy sets out our rules on data protection and the legal conditions that must be satisfied in relation to the obtaining, handling, processing, storage, transportation and destruction of personal information.
 
-At NEO, the post which is responsible for ensuring compliance with the Act and with this policy is [TITLE], [DEPARTMENT], [TELEPHONE EXTENSION], [E-MAIL ADDRESS].] Any questions or concerns about the operation of this policy should be referred to them in the first instance.
+At Neo, the post which is responsible for ensuring compliance with the Act and with this policy is the {{md}}, 07855 841103, [paul@neo.com](mailto:paul@neo.com). Any questions or concerns about the operation of this policy should be referred to them in the first instance.
 
 If you consider that the policy has not been followed in respect of personal data about yourself or others you should raise the matter with your line manager.
 

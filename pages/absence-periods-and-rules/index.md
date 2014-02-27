@@ -79,9 +79,6 @@ The public positions for which there is a right to time off are as follows:
 
 Employees are entitled to time off work for jury service. Employees should notify management immediately on receipt of the jury summons, giving full details.
 
-[todo: delete??]
-Employees will not normally be paid for this time off, and are advised to claim the expenses to which they are entitled from the Court. These will normally include compensation for loss of earnings.
-
 #### Bereavement Leave
 
  In addition to an employee’s right to take reasonable unpaid time off following the death of a dependant, the Company may, at its discretion, permit an employee to take leave (either paid or unpaid) following the death of an immediate or close relative.

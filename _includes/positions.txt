@@ -1,0 +1,2 @@
+{% assign md ='Office Managing Director' %}
+{% assign coo ='The Chief Operating Officer' %}
