@@ -18,7 +18,11 @@ The definitions in this paragraph apply in this policy.
 
 ### Personnel responsible for implementing the policy
 
-Our management team has overall responsibility for the effective operation of this policy and for ensuring compliance with the relevant statutory framework. The management team has delegated day-to-day responsibility for operating the policy and ensuring its maintenance and review to [POSITION]. [todo: who????]
+Our management team has overall responsibility for the effective operation of this policy and for ensuring compliance with the relevant statutory framework.
+
+<!-- The management team has delegated day-to-day responsibility for operating the policy and ensuring its maintenance and review to [POSITION]. [todo: who????] - currently no-one available for delegation.
+-->
+
 
 Managers have a specific responsibility to ensure the fair application of this policy and all members of staff are responsible for supporting colleagues and ensuring its success.
 
@@ -114,9 +118,10 @@ You shall still be eligible for SMP if you leave employment for any reason after
 
 If you become eligible for a pay rise before the end of your maternity leave, you will be treated for SMP purposes as if the pay rise had applied throughout the Relevant Period. This means that your SMP will be recalculated and increased retrospectively, or that you may qualify for SMP if you did not previously qualify. We shall pay you a lump sum to make up the difference between any SMP already paid and the amount payable by virtue of the pay rise. Any future SMP payments at the Earnings-Related Rate (if any) will also be increased as necessary.
 
-### company maternity pay
+### Company Maternity Pay
 
-[todo: get one]
+<!-- todo -->
+We currently do not have a maternity pay policy, but intend to implement one.
 
 ### Terms and conditions during OML and AML
 

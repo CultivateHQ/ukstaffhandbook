@@ -3,6 +3,8 @@ layout: default
 title: Anti-harassment and bullying policy
 ---
 
+{% include positions.txt%}
+
 The purpose of this policy is to ensure that all staff are treated and treat others with dignity and respect, free from harassment and bullying. All staff should take the time to ensure they understand what types of behaviour are unacceptable under this policy.
 
 This policy covers harassment or bullying which occurs both in and out of the workplace, such as on business trips or at events or work-related social functions. It covers bullying and harassment by staff and also by third parties such as customers, suppliers or visitors to our premises.
@@ -73,7 +75,7 @@ If informal steps have not been successful or are not possible or appropriate, y
 
 ### Raising a formal complaint
 
-If you wish to make a formal complaint about bullying or harassment, you should submit it in writing to [POSITION], whose role is to achieve a solution wherever possible and to respect the confidentiality of all concerned. If the matter concerns that person, you should refer it to the [POSITION/A HIGHER LEVEL OF MANAGEMENT].
+If you wish to make a formal complaint about bullying or harassment, you should submit it in writing to the {{md}}, whose role is to achieve a solution wherever possible and to respect the confidentiality of all concerned. If the matter concerns that person, you should refer it to the {{coo}}.
 
 Your written complaint should set out full details of the conduct in question, including the name of the harasser or bully, the nature of the harassment or bullying, the date(s) and time(s) at which it occurred, the names of any witnesses and any action that has been taken so far to attempt to stop it from occurring.
 
@@ -109,7 +111,7 @@ Any staff member who deliberately provides false information or otherwise acts i
 
 ### Appeals
 
-If you are not satisfied with the outcome you may appeal in writing or email to [POSITION], stating your full grounds of appeal, within one week of the date on which the decision was sent or given to you.
+If you are not satisfied with the outcome you may appeal in writing or email to the {{md}}, stating your full grounds of appeal, within one week of the date on which the decision was sent or given to you.
 
 We will hold an appeal meeting, normally within one week of receiving your written appeal. This will be dealt with impartially by a more senior manager who has not previously been involved in the case (although they may ask anyone previously involved to be present). You may bring a colleague or trade union representative to the meeting.
 
@@ -136,6 +138,5 @@ Breach of confidentiality may give rise to disciplinary action under our Discipl
 ### Who is responsible for this policy?
 All managers have a specific responsibility to operate within the boundaries of this policy, ensure that all staff understand the standards of behaviour expected of them and to take action when behaviour falls below its requirements.
 
-Staff should disclose any instances of harassment or bullying of which they become aware to [POSITION].
-Questions about this policy and requests for training or information on dealing with bullying or harassment should be directed to [POSITION].
+Staff should disclose any instances of harassment or bullying of which they become aware to the {{md}}. Questions about this policy and requests for training or information on dealing with bullying or harassment should be directed to the {{md}}.
 

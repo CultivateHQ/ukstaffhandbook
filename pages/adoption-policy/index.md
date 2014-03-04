@@ -19,7 +19,10 @@ The definitions in this paragraph apply in this policy.
 
 ### Personnel responsible for implementing the policy
 
-Our management team has overall responsibility for the effective operation of this policy and for ensuring compliance with the relevant statutory framework. The management team has delegated day-to-day responsibility for operating the policy and ensuring its maintenance and review to [POSITION].
+Our management team has overall responsibility for the effective operation of this policy and for ensuring compliance with the relevant statutory framework.
+
+<!-- The management team has delegated day-to-day responsibility for operating the policy and ensuring its maintenance and review to [POSITION].
+-->
 
 Managers have a specific responsibility to ensure the fair application of this policy and all members of staff are responsible for supporting colleagues and ensuring its success.
 
@@ -94,7 +97,8 @@ If you become eligible for a pay rise before the end of your adoption leave, you
 
 ### company adoption pay
 
-[_TODO - DISCUSS PUTTING A POLICY IN PLACE_]
+<!-- todo -->
+We currently do not have an adoption pay policy, but intend to implement one.
 
 ### Terms and conditions during OAL and AAL
 
@@ -112,7 +116,7 @@ Our holiday year runs from 1 January to 31 December.
 
 ### Pensions
 
-During OAL and any further period of paid adoption leave we shall continue to make any employer contributions that we usually make into a money-purchase pension scheme, based on what your earnings would have been if you had not been on adoption leave provided that you continue to make contributions based on the adoption pay you are receiving. If you wish to increase your contributions to make up any shortfall from those based on your normal salary then please contact POSITION or the Pensions Administrator directly.
+During OAL and any further period of paid adoption leave we shall continue to make any employer contributions that we usually make into a money-purchase pension scheme, based on what your earnings would have been if you had not been on adoption leave provided that you continue to make contributions based on the adoption pay you are receiving. If you wish to increase your contributions to make up any shortfall from those based on your normal salary then please contact the Payroll Administrator or the Pensions Administrator directly.
 
 The period of OAL counts towards our final-salary pension scheme as pensionable service, provided you make the necessary minimum contributions based on the adoption pay you are receiving.
 

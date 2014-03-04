@@ -2,6 +2,7 @@
 layout: default
 title: Grievance procedure
 ---
+{% include positions.txt%}
 
 ### Who is covered by the procedure?
 
@@ -13,7 +14,7 @@ Most grievances can be resolved quickly and informally through discussion with y
 
 #### Step 1: written grievance
 
-You should put your grievance in writing and submit it to your line manager. If your grievance concerns your line manager you may submit it to [POSITION].
+You should put your grievance in writing and submit it to your line manager. If your grievance concerns your line manager you may submit it to the {{md}}.
 
 The written grievance should set out the nature of the complaint, including any relevant facts, dates, and names of individuals involved so that we can investigate it.
 
@@ -31,7 +32,7 @@ We will write to you, usually within one week of the last grievance meeting, to 
 
 #### Step 3: appeals
 
-If the grievance has not been resolved to your satisfaction you may appeal in writing to [POSITION], stating your full grounds of appeal, within one week of the date on which the decision was sent or given to you.
+If the grievance has not been resolved to your satisfaction you may appeal in writing to the {{md}}, stating your full grounds of appeal, within one week of the date on which the decision was sent or given to you.
 
 We will hold an appeal meeting, normally within two weeks of receiving the appeal. This will normally be dealt with impartially by a more senior manager who has not previously been involved in the case. You will have a right to bring a companion.
 

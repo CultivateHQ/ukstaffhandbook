@@ -3,6 +3,7 @@ layout: default
 title: Parental leave policy
 ---
 
+{% include positions.txt %}
 ### Policy statement
 
 The law recognises and we respect that there will be occasions when working parents wish to take time off work to care for or spend time with their child or children.  This policy reflects the statutory right of employees with at least one year's continuous service to take up to 18 weeks' unpaid parental leave in respect of each child.  No-one will be subjected to a detriment for taking or seeking to take parental leave in accordance with this policy.
@@ -11,7 +12,8 @@ This policy does not form part of any employee's contract of employment and it m
 
 ### Personnel responsible for implementing the policy
 
-[POSITION] has overall responsibility for the effective operation of this policy and for ensuring compliance with the relevant statutory framework.  Managers have a specific responsibility to ensure the fair application of this policy and all members of staff are responsible for supporting colleagues and ensuring its success.
+
+The {{ md }} has overall responsibility for the effective operation of this policy and for ensuring compliance with the relevant statutory framework.  Managers have a specific responsibility to ensure the fair application of this policy and all members of staff are responsible for supporting colleagues and ensuring its success.
 
 ### Entitlement to parental leave
 
@@ -58,13 +60,14 @@ If you wish to take a period of parental leave immediately after a period of ord
 ### Evidential requirements
 
 Before you take a period of parental leave under this policy, you must provide us with evidence of:
+
 * your responsibility or expected responsibility for the child;
 * the child's date of birth or date of adoption placement; and
 * if applicable, the child's entitlement to a disability living allowance.
 
 For details of what evidence is required in your particular circumstances, or if you have difficulties obtaining the evidence, please contact your line manager.
 
-Our right to postpone parental leave
+### Our right to postpone parental leave
 
 Where you give notice of your intention to take parental leave on the birth or adoption of a child, we shall not postpone that leave.
 

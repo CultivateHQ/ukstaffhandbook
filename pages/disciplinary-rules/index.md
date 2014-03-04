@@ -3,7 +3,7 @@ layout: default
 title: Disciplinary rules
 ---
 
-These Disciplinary Rules should be read in conjunction with our Disciplinary Procedure. The aim of the Disciplinary Rules and Disciplinary Procedure is to set out the standards of conduct expected of all employees and to provide a framework within which managers can work with employee to maintain those standards and encourage improvement where necessary.
+These Disciplinary Rules should be read in conjunction with our [Disciplinary Procedure](pages/disciplinary-procedure/). The aim of the Disciplinary Rules and Disciplinary Procedure is to set out the standards of conduct expected of all employees and to provide a framework within which managers can work with employee to maintain those standards and encourage improvement where necessary.
 
 It is our policy to ensure that any disciplinary matter is dealt with fairly and in accordance with the Disciplinary Procedure.  If you are in any doubt as to your responsibilities or the standards of conduct expected you should speak to your line manager.
 
@@ -12,8 +12,8 @@ It is our policy to ensure that any disciplinary matter is dealt with fairly and
 While working for us you should at all times maintain professional and responsible standards of conduct. In particular you should:
 
 * observe the terms and conditions of your contract, particularly with regard to:
-* hours of work;
-* confidentiality;
+  * hours of work;
+  * confidentiality;
 * observe all our policies, procedures and regulations which are included in this Employee Handbook or notified to you from time to time by means of notice boards, e-mail, the intranet or otherwise;
 * take reasonable care in respect of the health and safety of colleagues and third parties and comply with our Health and Safety Policy;
 * comply with all reasonable instructions given by managers; and
@@ -32,8 +32,6 @@ The following are examples of matters that will normally be regarded as miscondu
 * Time wasting;
 * Unauthorised absence from work;
 * Refusal to follow instructions;
-* Excessive use of our telephones for personal calls;
-* Excessive personal e-mail or internet usage;
 * Obscene language or other offensive behaviour;
 * Negligence in the performance of your duties; or
 * Smoking in no-smoking areas.

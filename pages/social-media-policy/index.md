@@ -2,6 +2,9 @@
 layout: default
 title: Social media policy
 ---
+{% include positions.txt%}
+
+
 We recognise that the internet provides unique opportunities to participate in interactive discussions and share information on particular topics using a wide variety of social media, such as Facebook, Twitter, blogs and wikis. However, employees' use of social media can pose risks to our confidential and proprietary information, and reputation, and can jeopardise our compliance with legal obligations.
 
 To minimise these risks, to avoid loss of productivity and to ensure that our IT resources and communications systems are used only for appropriate business purposes, we expect employees to adhere to this policy.
@@ -20,7 +23,7 @@ Employees may be required to remove internet postings which are deemed to consti
 
 Personnel responsible for implementing the policy
 
-The [POSITION] has overall responsibility for the effective operation, monitoring and reviewing of this policy.
+The {{md}} has overall responsibility for the effective operation, monitoring and reviewing of this policy.
 
 All managers have a specific responsibility for operating within the boundaries of this policy, ensuring that all employees understand the standards of behaviour expected of them and taking action when behaviour falls below its requirements.
 
@@ -86,7 +89,7 @@ Employees should also avoid social media communications that might be misconstru
 
 Employees should make it clear in social media postings that they are speaking on their own behalf.  Write in the first person and use a personal e-mail address when communicating via social media.
 
-Any social media posts made via the Company’s social networking accounts should be approved by [POSITION] before they are posted on to the relevant websites.
+Any social media posts made via the Company’s social networking accounts should be approved by the {{md}} before they are posted on to the relevant websites.
 
 Employees are personally responsible for what they communicate in social media. Remember that what you publish might be available to be read by the masses (including the organisation itself, future employers and social acquaintances) for a long time. Keep this in mind before you post content.
 
@@ -98,7 +101,7 @@ If you are uncertain or concerned about the appropriateness of any statement or 
 
 If you see content in social media that disparages or reflects poorly on our organisation or our stakeholders, you should contact your manager.  All employees are responsible for protecting our business reputation.
 
-Respecting intellectual property and confidential information:
+### Respecting intellectual property and confidential information:
 
 * Employees should not do anything to jeopardise our valuable trade secrets and other confidential information and intellectual property through the use of social media.
 * In addition, employees should avoid misappropriating or infringing the intellectual property of other companies and individuals, which can create liability for the organisation, as well as the individual author.

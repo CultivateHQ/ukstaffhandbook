@@ -96,9 +96,10 @@ Ordinary Paternity Pay shall be paid at the lower of the following rates:
 
 ASPP will only be paid where the mother has returned to work and has not exhausted her right to maternity pay. The mother must also have over two weeks’ maternity pay remaining for the father to receive any pay. The employee should notify the employer of their intention to claim ASPP at the same time as they notify the employer of their intention to take APL.
 
-### company paternity pay
+### Company Paternity Pay
 
-*TODO - WANT THIS. Paul needs to discuss this with Navigator Law.*
+<!-- todo -->
+_We do not currently have a Company Paternity Pay schme, but intend to implement one._
 
 
 ### Keeping In Touch
