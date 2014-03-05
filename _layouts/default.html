@@ -1,44 +1,58 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ site.name}} - {{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>{{ site.name}} - {{ page.title }}</title>
+<meta name="viewport" content="width=device-width">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+<!-- syntax highlighting CSS -->
+<link rel="stylesheet" href="/css/syntax.css">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+<!-- Custom CSS -->
+<link rel="stylesheet" href="/css/main.css">
 
-    </head>
-    <body>
+</head>
+<body>
 
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
+<div class="site">
+  <div class="header">
+    <h1 class="title">{{ site.name }}</h1>
+  </div>
+  <hr/>
 
-          {{ content }}
+  <div class="outer-main">
+    <div class="side">
+      <p>
+      This is still beta. Some of the, and some of the policies are a little odd.
+      </p>
+      <ol class="contents">
+        {% include toc.html %}
+      </ol>
+    </div>
+    <div class="main">
+      <h2>{{ page.title }}</h2>
+      {{ content }}
+    </div>
+  </div>
 
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Neo Innovation Europe Ltd<br />
-                TechCube, Summerhall, Edinburgh, EH9 1PL</br>
-                Registered in Scotland 357781<br />
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/neo/ukstaffhandook">https://github.com/neo/ukstaffhandook</a><br />
-                <a href="https://twitter.com/neo_gb">twitter.com/neo_gb</a><br />
-              </p>
-            </div>
-          </div>
-        </div>
 
-    </body>
+  <div class="footer">
+    <div class="contact">
+      <p>
+      Neo Innovation Europe Ltd<br />
+      TechCube, Summerhall, Edinburgh, EH9 1PL</br>
+      Registered in Scotland 357781<br />
+      </p>
+    </div>
+    <div class="contact">
+      <p>
+      <a href="https://github.com/neo/ukstaffhandook">https://github.com/neo/ukstaffhandook</a><br />
+      <a href="https://twitter.com/neo_gb">twitter.com/neo_gb</a><br />
+      </p>
+    </div>
+  </div>
+</div>
+
+</body>
 </html>
