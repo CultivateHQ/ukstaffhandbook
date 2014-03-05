@@ -117,8 +117,13 @@ ul, ol {
 
 a, a:visited {
   text-decoration: none;
+}
+
+a, a:visited, a:hover{
   color: blue;
 }
 
 a:hover {
+  text-decoration: underline;
+}
 
