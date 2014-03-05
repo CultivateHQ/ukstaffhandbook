@@ -52,7 +52,7 @@ Anyone processing personal data must comply with the eight enforceable principle
 
 ### Fair and lawful processing
 
-The Act is intended not to prevent the processing of personal data, but to ensure that it is done fairly and without adversely affecting the rights of the data subject. The data subject must be told who the data controller is (in this case NEO) who the data controller's representative is (in this case the person at NEO named above), the purpose for which the data is to be processed by us, and the identities of anyone to whom the data may be disclosed or transferred.
+The Act is intended not to prevent the processing of personal data, but to ensure that it is done fairly and without adversely affecting the rights of the data subject. The data subject must be told who the data controller is (in this case Neo) who the data controller's representative is (in this case the person at Neo named above), the purpose for which the data is to be processed by us, and the identities of anyone to whom the data may be disclosed or transferred.
 
 For personal data to be processed lawfully, certain conditions have to be met. These may include, among other things, requirements that the data subject has consented to the processing, or that the processing is necessary for the legitimate interest of the data controller or the party to whom the data is disclosed. When sensitive personal data is being processed, more than one condition must be met. In most cases the data subject's explicit consent to the processing of such data will be required.
 
