@@ -3,6 +3,10 @@
 @import "_neat/neat"
 @import "_variables"
 
+@import "header"
+@import "footer"
+@import "alerts"
+
 *
   @include box-sizing(border-box)
 
@@ -63,45 +67,3 @@ main
 
     h1, h2, h3, h4, h5, h6
       margin-top: $spacing*1.5
-
-.site-header
-  @include outer-container
-  border-bottom: 1px solid $grey
-  margin-bottom: $spacing
-  padding: $spacing 0
-  text-align: center
-
-  h1
-    line-height: 1
-    margin: 0
-
-.site-footer
-  @include outer-container
-  border-top: 2px solid $grey
-  margin-top: $spacing*3
-  padding: $spacing 0 $spacing*2
-
-  ul
-    @include span-columns(8)
-    margin: 0
-    padding: 0
-
-    li
-      list-style-type: none
-
-  address
-    @include span-columns(4)
-    color: $darkGrey
-    font-style: normal
-
-.alert
-  @include outer-container
-  background-color: $alertBackground
-  border: 1px solid $alertBorder
-  color: $alertText
-  margin-bottom: $spacing
-
-  p
-    margin: 0
-    padding: $spacing/2 0
-    text-align: center
