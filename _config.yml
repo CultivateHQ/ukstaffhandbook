@@ -1,5 +1,4 @@
 name: Neo Innovation Europe Ltd, Staff Handbook
 markdown: redcarpet
-exclude: ['vendor']
-pygments: true
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'gen.rb', 'Procfile', 'Rakefile', 'README.md']
 redirects: true
