@@ -435,7 +435,7 @@ th {
     clear: both; }
   .alert p {
     margin: 0;
-    padding: 1em 0;
+    padding: 1em;
     text-align: center; }
 
 * {
@@ -444,7 +444,8 @@ th {
   box-sizing: border-box; }
 
 body {
-  line-height: 1.5em; }
+  line-height: 1.5em;
+  margin: 0 1em; }
 
 a {
   color: #428bca;
@@ -477,20 +478,15 @@ main {
     padding: 1em; }
     main aside:last-child {
       margin-right: 0; }
-    main aside > ol {
-      margin: 0;
-      padding-left: 2em; }
-      main aside > ol > li {
-        list-style-type: upper-roman;
-        margin-bottom: 0.66667em; }
-        main aside > ol > li:last-child {
-          margin-bottom: 0; }
-      main aside > ol ol {
-        padding-left: 1em; }
-        main aside > ol ol li {
-          list-style-type: lower-roman; }
-    main aside li {
-      list-style-position: outside; }
+    @media screen and (max-width: 768px) {
+      main aside {
+        float: left;
+        display: block;
+        margin-right: 3.57866%;
+        width: 100%;
+        margin-bottom: 2em; }
+        main aside:last-child {
+          margin-right: 0; } }
   main > section {
     float: left;
     display: block;
@@ -498,9 +494,57 @@ main {
     width: 65.88078%; }
     main > section:last-child {
       margin-right: 0; }
+    @media screen and (max-width: 768px) {
+      main > section {
+        float: left;
+        display: block;
+        margin-right: 3.57866%;
+        width: 100%; }
+        main > section:last-child {
+          margin-right: 0; } }
   main article header h1 {
     color: #a6a6a6;
     font-weight: normal;
     margin-top: 0; }
   main article h1, main article h2, main article h3, main article h4, main article h5, main article h6 {
     margin-top: 3em; }
+
+#toc {
+  margin: 0;
+  padding-left: 2em; }
+  @media screen and (max-width: 768px) {
+    #toc {
+      display: none; }
+      #toc.show {
+        display: block;
+        margin-top: 1em; } }
+  #toc > li {
+    list-style-type: upper-roman;
+    margin-bottom: 0.66667em; }
+    #toc > li:last-child {
+      margin-bottom: 0; }
+  #toc ol {
+    padding-left: 1em; }
+    #toc ol li {
+      list-style-type: lower-roman; }
+
+li {
+  list-style-position: outside; }
+
+#toggleToc {
+  display: none; }
+  #toggleToc:hover svg {
+    fill: #2a6496; }
+  #toggleToc svg {
+    -webkit-transition-property: fill;
+    -moz-transition-property: fill;
+    transition-property: fill;
+    -webkit-transition-duration: 0.3s;
+    -moz-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    height: 2em;
+    margin-right: 0.2em; }
+  @media screen and (max-width: 768px) {
+    #toggleToc {
+      align-items: center;
+      display: flex; } }

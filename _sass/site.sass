@@ -7,11 +7,15 @@
 @import "footer"
 @import "alerts"
 
+$desktop: new-breakpoint(min-width 768px 12)
+$tablet: new-breakpoint(max-width 768px 8)
+
 *
   @include box-sizing(border-box)
 
 body
   line-height: 1.5em
+  margin: 0 $spacing/2
 
 a
   color: $linkText
@@ -36,28 +40,15 @@ main
     border-top: 5px solid $primary
     padding: $spacing/2
 
-    > ol
-      margin: 0
-      padding-left: $spacing
-
-      > li
-        list-style-type: upper-roman
-        margin-bottom: $spacing/3
-
-        &:last-child
-          margin-bottom: 0
-
-      ol
-        padding-left: $spacing/2
-
-        li
-          list-style-type: lower-roman
-
-    li
-      list-style-position: outside
+    @include media($tablet)
+      @include span-columns(8)
+      margin-bottom: $spacing
 
   > section
     @include span-columns(8)
+
+    @include media($tablet)
+      @include span-columns(8)
 
   article
     header h1
@@ -67,3 +58,46 @@ main
 
     h1, h2, h3, h4, h5, h6
       margin-top: $spacing*1.5
+
+#toc
+  margin: 0
+  padding-left: $spacing
+
+  @include media($tablet)
+    display: none
+
+    &.show
+      display: block
+      margin-top: $spacing/2
+
+  > li
+    list-style-type: upper-roman
+    margin-bottom: $spacing/3
+
+    &:last-child
+      margin-bottom: 0
+
+  ol
+    padding-left: $spacing/2
+
+    li
+      list-style-type: lower-roman
+
+li
+  list-style-position: outside
+
+#toggleToc
+  display: none
+
+  &:hover svg
+    fill: $linkHoverText
+
+  svg
+    @include transition-property(fill)
+    @include transition-duration(0.3s)
+    height: 2em
+    margin-right: 0.2em
+
+  @include media($tablet)
+    align-items: center
+    display: flex
