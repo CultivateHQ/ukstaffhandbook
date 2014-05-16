@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Social media policy
 ---
 {% include positions.txt%}

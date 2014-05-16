@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Anti-harassment and bullying policy
 ---
 

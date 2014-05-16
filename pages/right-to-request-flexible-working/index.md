@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Right to request flexible working
 ---
 
