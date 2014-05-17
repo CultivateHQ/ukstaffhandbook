@@ -398,7 +398,9 @@ th {
     .site-footer ul li {
       list-style-type: none; }
       .site-footer ul li a {
+        -webkit-align-items: center;
         align-items: center;
+        display: -webkit-flex;
         display: flex; }
         .site-footer ul li a:hover svg {
           fill: #2a6496; }
@@ -410,7 +412,8 @@ th {
         -moz-transition-duration: 0.3s;
         transition-duration: 0.3s;
         height: 2em;
-        margin-right: 0.2em; }
+        margin-right: 0.2em;
+        width: 2em; }
   .site-footer address {
     float: left;
     display: block;
@@ -543,8 +546,11 @@ li {
     -moz-transition-duration: 0.3s;
     transition-duration: 0.3s;
     height: 2em;
-    margin-right: 0.2em; }
+    margin-right: 0.2em;
+    width: 2em; }
   @media screen and (max-width: 768px) {
     #toggleToc {
+      -webkit-align-items: center;
       align-items: center;
+      display: -webkit-flex;
       display: flex; } }
