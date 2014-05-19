@@ -35,3 +35,10 @@
     @include span-columns(4)
     color: $darkGrey
     font-style: normal
+
+  @include media($mobile)
+    ul, address
+      @include span-columns(4)
+
+    ul
+      margin-bottom: $spacing
