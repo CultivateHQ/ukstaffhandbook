@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Parental leave policy
 ---
 

@@ -1,0 +1,37 @@
+@import "_variables"
+
+.site-footer
+  @include outer-container
+  border-top: 2px solid $grey
+  margin-top: $spacing*3
+  padding: $spacing 0 $spacing*2
+
+  ul
+    @include span-columns(8)
+    margin: 0
+    padding: 0
+
+    li
+      list-style-type: none
+
+      a
+        -webkit-align-items: center
+        align-items: center
+        display: -webkit-flex
+        display: flex
+
+        &:hover
+          svg
+            fill: $linkHoverText
+
+      svg
+        @include transition-property(fill)
+        @include transition-duration(0.3s)
+        height: 2em
+        margin-right: 0.2em
+        width: 2em
+
+  address
+    @include span-columns(4)
+    color: $darkGrey
+    font-style: normal

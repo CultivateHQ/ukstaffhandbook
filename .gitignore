@@ -1,3 +1,4 @@
-.ruby-version
 .bundle
+.ruby-version
+.sass-cache
 _site/bin

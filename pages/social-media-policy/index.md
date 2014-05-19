@@ -1,9 +1,6 @@
 ---
-layout: default
 title: Social media policy
 ---
-{% include positions.txt%}
-
 
 We recognise that the internet provides unique opportunities to participate in interactive discussions and share information on particular topics using a wide variety of social media, such as Facebook, Twitter, blogs and wikis. However, employees' use of social media can pose risks to our confidential and proprietary information, and reputation, and can jeopardise our compliance with legal obligations.
 

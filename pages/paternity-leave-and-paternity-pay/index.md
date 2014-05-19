@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Paternity Leave and Paternity Pay
 ---
 

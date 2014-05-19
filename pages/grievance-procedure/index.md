@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Grievance procedure
 ---
 {% include positions.txt%}

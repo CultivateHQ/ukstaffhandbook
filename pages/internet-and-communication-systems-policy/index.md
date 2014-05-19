@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Internet and communication systems policy
 ---
 
