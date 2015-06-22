@@ -7,7 +7,7 @@ title: Holidays
 ### How to book a holiday
 
 1. Ask your line manager's permission.
-2. Ensure that the holiday is entered into [T2](/2013/11/29/administrative-tooling.html#t2). For traceability, and for now, this will be added by the {{ md }}.
+2. Ensure that the holiday is entered into [The Holiday Spreadsheet]({{ site.baseurl }}//pages/administrative-tooling/#holiday_spread). For traceability, and for now, this will be added by the {{ md }}.
 
 
 ### The Rules
@@ -20,7 +20,8 @@ Salaried employees will be paid their basic salary in respect of periods of annu
 
 Employees will accrue annual holidays during the Ordinary and Additional Maternity, Adoption and Paternity Leave periods.
 
-On termination of employment, employees will be entitled to be paid for holiday accrued but not taken at the date of termination of employment.
+On termination of employment, employees will be entitled to be paid for holiday
+accrued but not taken at the date of termination of employment.
 
 If on termination of employment an employee has taken more annual holiday than he or she has accrued in that holiday year, an appropriate deduction will be made from the employee’s final pay.
 

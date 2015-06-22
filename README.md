@@ -6,7 +6,6 @@ It is a vanilla [Jekyll site](http://jekyllrb.com). Sections are posts.
 
 # Deployment
 
-Deployed to [https://neoukstaffhandbook.herokuapp.com](https://neoukstaffhandbook.herokuapp.com). It is a standard Heroku deploy.
 
 # Changes
 
