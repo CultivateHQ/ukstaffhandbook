@@ -6,7 +6,7 @@ title: Expenses policy
 
 Expenses are submitted via [Expensify](httsp://expensify.com) reports. Each expense should include:
 
-* Full image of a VAT receipt, if VATable. Non VATable expenses just need a receipt.
+* Full image of a [VAT receipt (invoice)](https://www.gov.uk/vat-record-keeping/vat-invoices), if VATable. Non VATable expenses just need a receipt.
 * A link to the appropriate category (eg Travel Meals, accommodation).
 * All the other information that Expensify forces you to add.
 
@@ -15,7 +15,6 @@ Physical receipts should be put in an envelope and added to the Big White Tray i
 ## Payment
 
 Typically expenses will be paid with salary at the end of the month. If this is a problem, particularly with large expenses, let us know.
-
 ## Travel and Subsistence Expenses
 
 We need to take a lead from [HMRC](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/321897/490.pdf) on what is claimable. Basically, it's costs for being away from the office and home, but needs to be reasonable.
