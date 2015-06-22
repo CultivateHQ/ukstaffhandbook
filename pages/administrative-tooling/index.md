@@ -8,51 +8,45 @@ As well as specific tooling for your job (eg development) there are a number of 
 
 <a name="google_apps"></a>
 
-We use Google Apps for mail, calendar, documents, wiki, hangouts, and for other apps' authentication/authorisation. Our domain is neo.com, and you will have been issued with a login on joining.
+We use Google Apps for mail, calendar, documents, wiki, hangouts, and for other apps' authentication/authorisation. Our domain is cultivatehq.com, and you will have been issued with a login on joining.
 
 Use a secure password, and 2-factor authentication.
 
-### Wiki
 
-The wiki is a Google Site. It is [here](https://wiki.neo.com/).
+### Holiday Spreadsheet
 
-### T2
+<a name="holiday_spread"></a>
 
-<a name="t2"></a>
-
-[T2](http://t2allocation.neo.com/#/offices/edinburgh/projects) is an internal tool used for staff-allocation, and utilisation tracking. Please ensure your allocations are correct and up-to-date, especially [holidays](/2013/11/29/holidays.html).
+Right now we need to track and enter holiday(vacation) time on the [Holiday Spreadsheet](https://docs.google.com/a/merecomplexities.com/spreadsheets/d/1MP_5FXrwi4vuL2k0znnIic1s4FSPmLP2M88uNHGGBLg/edit?usp=sharing).
 
 ### FreeAgent
 <a name="freeagent"></a>
 
-[FreeAgent](https://edgecaseuk.freeagent.com/login) is the online bookkeeping tool used by the UK company. You will be granted access to FreeAgent; if you do not have this then ask Paul Wilson or Jenny Wilson.
+[FreeAgent](https://edgecaseuk.freeagent.com/login) is our former tonline bookkeeping tool used by the UK company. You will be granted access to FreeAgent; if you do not have this then ask Paul Wilson or Jenny Wilson.
 
-Most people will use FreeAgent to:
+Currently we only use FreeAgent to fill in timesheets when on client projects.
 
-* View expenses
-* Access their payslips
-* Fill in timesheets, when they are on client projects
+### Expensify
 
+We use [Expensify](https://www.expensify.com) to add and get expenses approved. There are mobile apps which make this easier.
 
-### Passpack
+### 1Password
 
-We use [Passpack](https://www.passpack.com) to securely share passwords. Mike Doel has written a handy guide [on the wiki](https://sites.google.com/a/neo.com/neo-wiki/accounts-subscriptions/passpack).
+We use [1Password](https://agilebits.com/onepassword) to securely share passwords, via a shared vault on Dropbox (see below). This is expensable.
 
 ### Dropbox
 
-Dropbox is also used to share documents. For now, [register](https://www.dropbox.com) for a free personal account and add your preferred Dropbox email [here](https://sites.google.com/a/neo.com/neo-wiki/accounts-subscriptions/preferred-dropbox-accounts).
+Dropbox is also used to share documents. For now, [register](https://www.dropbox.com) for a free personal account. If you need a professional account, ask and expense.
 
 Use 2-factor authentication for Dropbox.
 
-### Hipchat
+### Slack
 
-[Hipchat](https://www.hipchat.com) is used for group and individual chat. Normally you will be expected to be logged in, but you do not need to be in any rooms -  unless there are project specific rooms that you need to be present in for communciation with clients and/or remote colleages.
-
-Everyone in the organsation is a Hipchat administrator; anything you say in a non-individual chat is potentially viewable by anyone.
+[Slack](https://www.slack.com) is used for group and individual chat. Normally you will be expected to be logged in, but you do not need to be in any rooms -  unless there are project specific rooms that you need to be present in for communciation with clients and/or remote colleages.
 
 ### Github
 
 We are a technical organisation. Regardless of your role, you will probably eventually need a [Github](https://github.com/) account, for example to look at the history of this handbook.
 
 1. Register with [Github](https://github.com).
-2. Ask a developer to make sure you are on the Neo Github team.
+2. Ask a developer to make sure you are on the Cultivate Github team.

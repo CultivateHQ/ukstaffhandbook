@@ -14,7 +14,7 @@ This policy does not form part of any employee's contract of employment and it m
 
 This policy sets out our rules on data protection and the legal conditions that must be satisfied in relation to the obtaining, handling, processing, storage, transportation and destruction of personal information.
 
-At Neo, the post which is responsible for ensuring compliance with the Act and with this policy is the {{md}}, 07855 841103, [paul@neo.com](mailto:paul@neo.com). Any questions or concerns about the operation of this policy should be referred to them in the first instance.
+At Cultivate, the post which is responsible for ensuring compliance with the Act and with this policy is the {{md}}, 07855 841103, [paul@cultivatehq.com](mailto:paul@cultivatehq.com). Any questions or concerns about the operation of this policy should be referred to them in the first instance.
 
 If you consider that the policy has not been followed in respect of personal data about yourself or others you should raise the matter with your line manager.
 
@@ -51,7 +51,7 @@ Anyone processing personal data must comply with the eight enforceable principle
 
 ### Fair and lawful processing
 
-The Act is intended not to prevent the processing of personal data, but to ensure that it is done fairly and without adversely affecting the rights of the data subject. The data subject must be told who the data controller is (in this case Neo) who the data controller's representative is (in this case the person at Neo named above), the purpose for which the data is to be processed by us, and the identities of anyone to whom the data may be disclosed or transferred.
+The Act is intended not to prevent the processing of personal data, but to ensure that it is done fairly and without adversely affecting the rights of the data subject. The data subject must be told who the data controller is (in this case Cultivate) who the data controller's representative is (in this case the person at Cultivate named above), the purpose for which the data is to be processed by us, and the identities of anyone to whom the data may be disclosed or transferred.
 
 For personal data to be processed lawfully, certain conditions have to be met. These may include, among other things, requirements that the data subject has consented to the processing, or that the processing is necessary for the legitimate interest of the data controller or the party to whom the data is disclosed. When sensitive personal data is being processed, more than one condition must be met. In most cases the data subject's explicit consent to the processing of such data will be required.
 

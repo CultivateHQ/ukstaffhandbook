@@ -1,4 +1,4 @@
-name: Neo Innovation Europe Ltd, Staff Handbook
+name: Cultivate Software Ltd, Staff Handbook
 
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'gen.rb', 'Procfile', 'Rakefile', 'README.md']
 markdown: redcarpet
