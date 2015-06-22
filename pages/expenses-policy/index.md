@@ -32,4 +32,6 @@ Train tickets for journeys less than about 90 minutes should be standard class, 
 
 It's hard to define how much a hotel should cost, as it varies from city to city and season to season. 
 
-Book "business class" hotels if possible. Examples of "business class" are Premier Travel Inn, Travelodge, some Hiltons. Aim to be within 30 minutes travel of the client, unless it is far more expensive than being a little further.
+Book hotels that you expect to be comfortable, low-stress, and in which you will get a good night's sleep. Book places that can achieve this and be reasonably priced for the season and location.
+
+Self-catering may also be a good option, especially if you are staying somewhere for a while.
