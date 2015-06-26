@@ -6,7 +6,7 @@ title: Expenses policy
 
 Expenses are submitted via [Expensify](httsp://expensify.com) reports. Each expense should include:
 
-* Full image of a [VAT receipt (invoice)](https://www.gov.uk/vat-record-keeping/vat-invoices), if VATable. Non VATable expenses just need a receipt.
+* Full image of a VAT receipt, if VATable. Non VATable expenses just need a receipt. There are various attributes that make a receipt a valid VAT receipt, detailed [here](https://www.gov.uk/vat-record-keeping/vat-invoices), but the main thing to look out for is a VAT number; if it has one then it's probably ok.
 * A link to the appropriate category (eg Travel Meals, accommodation).
 * All the other information that Expensify forces you to add.
 
