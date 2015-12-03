@@ -97,9 +97,7 @@ ASPP will only be paid where the mother has returned to work and has not exhaust
 
 ### Company Paternity Pay
 
-<!-- todo -->
-_We do not currently have a Company Paternity Pay schme, but intend to implement one._
-
+As an alternative to Statutory Paternity Pay, the company will pay the employee at their full salary for 10 days of any combination of Ordinary or Additional Paternity Leave.
 
 ### Keeping In Touch
 
