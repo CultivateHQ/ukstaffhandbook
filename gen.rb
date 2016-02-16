@@ -1,18 +1,22 @@
 #!/usr/bin/env ruby
 
+require 'fileutils'
+
 puts "Tell me your title"
 title = gets.strip
 
-date = Time.now.strftime('%Y-%m-%d')
-file_suffix = title.downcase.gsub(/\s+/, '-').gsub(/[^a-z0-9-]/, '')
+dir_name = title.downcase.gsub(/\s+/, '-').gsub(/[^a-z0-9-]/, '')
 
-file = "_posts/#{date}-#{file_suffix}.md"
+dir = "pages/#{dir_name}"
+file = "#{dir}/index.md"
 
-p [title, file_suffix, date, file]
+
+FileUtils.mkdir_p dir
+
+p [title, file, file]
 
 File.open(file, 'w') do |f|
   f.puts "---"
-  f.puts "layout: post"
   f.puts "title: #{title}"
   f.puts "---"
   f.puts
