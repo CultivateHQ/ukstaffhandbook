@@ -8,10 +8,10 @@ We encourage conference attendance and appropriate training.
 
 The budget for conference and training for an individual is, per 12 month period:
 
-* GBP £1,250
-* 5 days
+* GBP £1,350 for tickets, travel, and other [expenses](/pages/expenses-policy/)
+* 5 days for conference attendance and travel (in work time)
 
-Travel time withing working days counts towards the budget. The budget does not rollover, and there is no expectation of having to use the entire budget. On termination of employment, an employee is not entitled to compensation for un-taken conference and training budget.
+The budget does not rollover, and there is no expectation of having to use the entire budget. On termination of employment, an employee is not entitled to compensation for un-taken conference and training budget.
 
 ### Approval
 
@@ -29,8 +29,10 @@ Employees who have a significant Business Development role have a greater leeway
 
 Company mandated training does not count towards the employee's budget.
 
-If an employee is chosen to speak at an event, that the company deems to be relevant to its interests, then the time and budget cost will not be deducted from the employee's allowance. This may still be subject to timing approval, and there may be a cap on budget.
+#### Speaking
+
+If an employee is chosen to speak at an event, that the company deems to be relevant to its interests, then the time and budget cost will not be deducted from the employee's allowance. This may still be subject to approval on timing and cost.
 
 #### Other
 
-If an employee can make a compelling case for attendance at an event but have already spent their budget, then it may be extended to cover that event.
+If an employee can make a compelling case for attendance at an event but have already spent their budget, or the cost is larger than the budget, then it may be extended to cover that event.
