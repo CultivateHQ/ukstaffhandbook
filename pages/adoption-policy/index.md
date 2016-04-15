@@ -6,6 +6,8 @@ title: Adoption Policy
 
 This policy outlines the statutory rights and responsibilities of employees who adopt, and sets out the arrangements for adoption leave. It only applies to employees and does not apply to agency workers or the self-employed.
 
+In some cases you and your spouse or partner may be eligible to opt into the shared parental leave (SPL) scheme which gives you more flexibility to share the leave and pay available in the first year. You will need to give us at least eight weeks' notice to opt into SPL, and one of you must take at least two weeks' adoption leave. For information about SPL, see our [Shared Parental Leave (Adoption) Policy](${{site.baseurl}}/shared-parental-leave-adoption-policy).
+
 This policy does not form part of any employee's contract of employment and it may be amended at any time.
 
 ### Definitions
