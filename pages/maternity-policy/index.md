@@ -8,6 +8,8 @@ This policy outlines the statutory rights and responsibilities of employees who 
 
 This policy does not form part of any employee's contract of employment and we may amend it at any time.
 
+In some cases you and your spouse or partner may be eligible to opt into the shared parental leave (SPL) scheme which gives you more flexibility to share the leave and pay available in the first year. You will need to give us at least eight weeks' notice to opt into SPL, and you must remain on maternity leave until at least two weeks after birth. For information about SPL, see our [Shared Parental Leave (Birth) Policy]({{ site.baseurl}}/pages/shared-parental-leave-birth-policy).
+
 ### Definitions
 
 The definitions in this paragraph apply in this policy.
@@ -119,8 +121,7 @@ If you become eligible for a pay rise before the end of your maternity leave, yo
 
 ### Company Maternity Pay
 
-<!-- todo -->
-We currently do not have a maternity pay policy, but intend to implement one.
+Company shared parental pay is paid at the full rate of your normal basic salary for the first 6 weeks and at half basic salary for the next 6 weeks. Any period of company maternity or paternity pay for the same child will count towards your company shared parental pay entitlement.
 
 ### Terms and conditions during OML and AML
 
