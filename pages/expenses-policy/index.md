@@ -15,6 +15,7 @@ Physical receipts should be put in an envelope and added to the Big White Tray i
 ## Payment
 
 Typically expenses will be paid with salary at the end of the month. If this is a problem, particularly with large expenses, let us know.
+
 ## Travel and Subsistence Expenses
 
 We need to take a lead from [HMRC](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/321897/490.pdf) on what is claimable. Basically, it's costs for being away from the office and home, but needs to be reasonable.
@@ -22,6 +23,7 @@ We need to take a lead from [HMRC](https://www.gov.uk/government/uploads/system/
 When expenses are reimbursable from a client, their policy will trump our policy. For example, many American companies will not reimburse alcoholic drinks with a meal.
 
 ### Acceptable forms of travel
+
 Try and book early, if possible, as last minute travel is usually more expensive.
 
 Flights should almost always be economy, unless a higher class is not significantly more expensive (eg < 20% increase in price over economy). We are willing to pay more for more convenient flights (eg into LCY over Luton when heading into Central London).
