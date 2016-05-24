@@ -8,7 +8,7 @@ We encourage conference attendance and appropriate training.
 
 The budget for conference and training for an individual is, per 12 month period:
 
-* GBP £1,350 for tickets, travel, and other [expenses](/pages/expenses-policy/)
+* GBP £1,350 for tickets, travel, and other [expenses]({{site.baseurl}}/pages/expenses-policy/)
 * 5 days for conference attendance and travel (in work time)
 
 The budget does not rollover, and there is no expectation of having to use the entire budget. On termination of employment, an employee is not entitled to compensation for un-taken conference and training budget.
