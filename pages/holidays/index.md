@@ -7,7 +7,7 @@ title: Holidays
 ### How to book a holiday
 
 1. Ask your line manager's permission.
-2. Ensure that the holiday is entered into [The Holiday Spreadsheet]({{ site.baseurl }}//pages/administrative-tooling/#holiday_spread). For traceability, and for now, this will be added by the {{ md }}.
+2. Holidays are added via "The Cultivar" Slack bot. Got the the zeacultiprod channel and type hols help for more information.
 
 
 ### The Rules
