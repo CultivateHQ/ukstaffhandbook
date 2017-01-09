@@ -16,7 +16,7 @@ Employees are requested to give at least a week's notice for routine medical app
 
 Employees are required to notify the Company as soon as possible of their sickness absence and the reasons for it. They should do this personally at the earliest opportunity to their line manager and by no later than 9.30am on the first day of the absence.
 
-Any reasonably guaranteed form of communication to communicate absence is fine. Telephone, text/iMessage, and email is fine. Hipchat is only ok, if you get an acknowledgement.
+Any reasonably guaranteed form of communication to communicate absence is fine. Telephone, text/iMessage, and email is fine. Slack is ok, provided that you get an acknowledgement.
 
 It is essential that employees keep the Company updated on the circumstances of the absence and of its estimated duration.  Employees must maintain regular contact throughout any period of sickness absence.
 
