@@ -58,4 +58,4 @@ We are a technical organisation. Regardless of your role, you will probably even
 
 <a name="timesheets"></a>
 
-Billable staff should update their timesheets daily on [Github](https://timesheets-production.herokuapp.com).
+Billable staff should update their timesheets daily on [Timesheets](https://timesheets-production.herokuapp.com).
