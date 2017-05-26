@@ -170,7 +170,7 @@ We may make reasonable contact with you from time to time during your SPL althou
 
 You may ask or be asked to work (including attending training) on up to 20 "keeping-in-touch" days (KIT days) during your SPL. This is in addition to any KIT days that you may have taken during maternity leave. KIT days are not compulsory and must be discussed and agreed with [your line manager OR the Human Resources Department].
 
-You will be paid at your normal basic rate of pay for time spent working on a KIT day and this will be inclusive of any shared parental pay entitlement. [Alternatively, you may agree with [your line manager OR the Human Resources Department] to receive the equivalent paid time off in lieu.]
+You will be paid at your normal basic rate of pay for time spent working on a KIT day and this will be inclusive of any shared parental pay entitlement.
 
 ### Returning to work
 
