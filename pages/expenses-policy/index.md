@@ -10,7 +10,12 @@ Expenses are submitted via [Expensify](httsp://expensify.com) reports. Each expe
 * A link to the appropriate category (eg Travel Meals, accommodation).
 * All the other information that Expensify forces you to add.
 
+Expenses must be submitted within 90 days of being occurred.
+
+A more detailed description of the policy for submitting expenses is in the [Internal Wiki](https://github.com/CultivateHQ/internal-documentation/wiki/Expense-Submission-Policy).
+
 Physical receipts should be put in an envelope and added to the Big White Tray in the office.
+
 
 ## Payment
 
@@ -32,7 +37,7 @@ Train tickets for journeys less than about 90 minutes should be standard class, 
 
 ### Hotels
 
-It's hard to define how much a hotel should cost, as it varies from city to city and season to season. 
+It's hard to define how much a hotel should cost, as it varies from city to city and season to season.
 
 Book hotels that you expect to be comfortable, low-stress, and in which you will get a good night's sleep. Book places that can achieve this and be reasonably priced for the season and location.
 
