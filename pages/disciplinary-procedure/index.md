@@ -98,7 +98,7 @@ The usual penalties for misconduct are set out below. No penalty should be impos
 
 Depending on the seriousness of the offence, and at the sole discretion of the Company, we may start disciplinary proceedings at any stage of the procedure.
 
-Alternatives to dismissal. In some cases we may at our discretion consider alternatives to dismissal. These may be authorised by [MANAGEMENT GRADE] and will usually be accompanied by a final written warning. Examples include:
+Alternatives to dismissal. In some cases we may at our discretion consider alternatives to dismissal. These may be authorised by the Managing Director and will usually be accompanied by a final written warning. Examples include:
 
 * Demotion.
 * Transfer to another department or job.
@@ -114,7 +114,7 @@ Alternatives to dismissal. In some cases we may at our discretion consider alter
 
 ### Appeals against disciplinary action
 
-If you feel that disciplinary action taken against you is wrong or unjust you should appeal in writing or by email, stating your full grounds of appeal, to [POSITION] within one week of the date on which you were informed of the decision.
+If you feel that disciplinary action taken against you is wrong or unjust you should appeal in writing or by email, stating your full grounds of appeal, to the Managing Director within one week of the date on which you were informed of the decision.
 
 If you are appealing against dismissal, the date on which dismissal takes effect will not be delayed pending the outcome of the appeal. However, if your appeal is successful you will be reinstated with no loss of continuity or pay.
 
@@ -137,4 +137,3 @@ Following the appeal hearing we may:
 * substitute a different penalty.
 
 We will inform you in writing of our final decision as soon as possible, usually within one week of the appeal hearing. Where possible we will also explain this to you in person. There will be no further right of appeal.
-
