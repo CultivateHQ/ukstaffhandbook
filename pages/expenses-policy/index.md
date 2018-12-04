@@ -14,8 +14,7 @@ Expenses must be submitted within 90 days of being occurred.
 
 A more detailed description of the policy for submitting expenses is in the [Internal Wiki](https://github.com/CultivateHQ/internal-documentation/wiki/Expense-Submission-Policy).
 
-Physical receipts should be put in an envelope and added to the Big White Tray in the office.
-
+We no longer need you to submit physical receipts.
 
 ## Payment
 
